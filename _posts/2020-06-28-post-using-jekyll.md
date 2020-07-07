@@ -80,7 +80,7 @@ I really like the idea of [Staticman](https://staticman.net/) but it seems that 
 
 ## Step Four - Hosting on Github pages
 
-To host on Github pages, I pushed the changes and renamed the repo to ankitkariryaa.github.io.
+To host on Github pages, I pushed the changes and renamed the repo to ankitkariryaa.github.io. It worked wonderfully in the first attempt!
 
 
 ## Summary 

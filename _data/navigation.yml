@@ -13,6 +13,8 @@ main:
 
 # - title: "Poems and short stories"
 #   url: /stories/
+  - title: "Quotes"
+    url: /quotes/
   - title: "Sitemap"
     url: /sitemap/
   - title: "About me"
