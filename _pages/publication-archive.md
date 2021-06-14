@@ -9,6 +9,9 @@ Below, you will find my list of publications (including workshop paper, posters 
 
 
 ## 2020
+* Martin Brandt, Compton J. Tucker, Ankit Kariryaa, Kjeld Rasmussen, Christin Abel, Jennifer Small, Jerome Chave et al. "An unexpectedly large count of trees in the West African Sahara and Sahel." Nature 587, no. 7832 (2020): 78-82. [DOI: https://doi.org/10.1038/s41586-020-2824-5](https://doi.org/10.1038/s41586-020-2824-5)
+* Ankit Kariryaa, and Johannes Schöning. "MoiPrivacy: Design and Evaluation of a Personal Password Meter." In 19th International Conference on Mobile and Ubiquitous Multimedia, pp. 201-211. 2020. [DOI: https://doi.org/10.1145/3428361.3428397](https://doi.org/10.1145/3428361.3428397)
+* Ankit Kariryaa. Dark side of UGC: A user-centric perspective on the impact of user-generated content. PhD Dissertation. University of Bremen. [DOI: https://doi.org/10.26092/elib/331](https://doi.org/10.26092/elib/331)
 * Ankit Kariryaa, Simon Rundé, Hendrik Heuer, Andreas Jungherr, and Johannes Schöning. 2020. The Role of Flag Emoji in Online Political Communication. Social Science Computer Review. [DOI: https://doi.org/10.1177/0894439320909085](https://doi.org/10.1177/0894439320909085). 
 * Ankit Kariryaa. 2020. MaskIt: Masking for efficient utilization of incomplete public datasets for training deep learning models. arXiv preprint arXiv:2006.12004. 
 [Preprint PDF](https://arxiv.org/pdf/2006.12004).
